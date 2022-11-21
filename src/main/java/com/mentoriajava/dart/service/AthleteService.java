@@ -1,6 +1,6 @@
-package com.mentoriajava.service;
+package com.mentoriajava.dart.service;
 
-import com.mentoriajava.model.Athlete;
+import com.mentoriajava.dart.model.Athlete;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.RequiredArgsConstructor;

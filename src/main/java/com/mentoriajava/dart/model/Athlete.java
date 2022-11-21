@@ -1,4 +1,4 @@
-package com.mentoriajava.model;
+package com.mentoriajava.dart.model;
 
 import lombok.Data;
 

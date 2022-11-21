@@ -1,6 +1,6 @@
-package com.mentoriajava.controller;
+package com.mentoriajava.dart.controller;
 
-import com.mentoriajava.service.AthleteService;
+import com.mentoriajava.dart.service.AthleteService;
 
 public class AthleteController {
     public static void main(String[] args) {
